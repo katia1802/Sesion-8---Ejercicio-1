@@ -4,7 +4,9 @@
     position: relative;
     width: 100px;
     margin: auto; 
+    border-radius: 50%;
   }
+
   .face {
     font-family: 'courier new', serif;
     font-size: 2.5em;
@@ -12,5 +14,5 @@
     left: 50%;
     position: absolute;
     top: 50%;
-    transform: translate(-50%, -60%) rotate(90deg);    
-}
+    transform: translate(-50%, -60%) rotate(90deg);
+} 
